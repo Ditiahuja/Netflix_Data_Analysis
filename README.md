@@ -6,10 +6,12 @@ Analysis Period: Content from 1925-2021 with addition dates from 2008-2021
 Geographic Coverage: 700+ countries and regions
 Technical Complexity: Advanced SQL with window functions, array operations, and temporal analysis
 
-** Key Features**
-✅ Comprehensive Data Exploration - 13+ analytical queries covering multiple dimensions
+ Key Features
+✅ Comprehensive Data Exploration - 10+ analytical queries covering multiple dimensions
 ✅ Advanced SQL Techniques - Window functions, string manipulation, date operations
 ✅ Business Intelligence Focus - Queries designed for actionable insights
 ✅ Geographic Analysis - Country-wise content distribution and trends
 ✅ Temporal Analytics - Year-over-year content patterns and growth analysis
 ✅ Genre & Rating Intelligence - Content classification and rating distribution
+
+
