@@ -1,0 +1,22 @@
+--CREATE DATABASE netflix
+CREATE DATABASE netflix;
+
+--CREATE TABLE movies
+DROP TABLE IF EXISTS movies;
+CREATE TABLE movies(
+	show_id	VARCHAR(10)	PRIMARY KEY,
+	type_of_show	VARCHAR(500)	,
+	title	VARCHAR(500)	,
+	director	VARCHAR(1000),
+	cast_of_show	VARCHAR(1000),
+	country	VARCHAR(500)	,
+	date_added	VARCHAR(100),
+	release_year INT	,
+	rating	VARCHAR(500)	,
+	duration	VARCHAR(1000),
+	listed_in	VARCHAR(1000),
+	description	VARCHAR(1000)	
+);
+
+--IMPORT DATA INTO THIS TABLE EITHER MANUALLY OR BY USING QUERIES
+SELECT * FROM movies;
