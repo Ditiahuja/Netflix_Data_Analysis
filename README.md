@@ -16,9 +16,7 @@ Technical Complexity: Advanced SQL with window functions, array operations, and 
 ✅ Temporal Analytics - Year-over-year content patterns and growth analysis
 ✅ Genre & Rating Intelligence - Content classification and rating distribution
 
-Technical Implementation
-Database: PostgreSQL
-Key SQL Techniques Used:
+
 
 
 
